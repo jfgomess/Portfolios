@@ -1,2 +1,2 @@
-# Automatização de Contratos
-Codigo para automatizar uma sequencia de contratos e salvar em .docx
+# Portfolio
+Apresentar algumas automações (RPA), SQL's, ETL's e desenvolvimento em Python
